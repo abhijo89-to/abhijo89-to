@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Hola, I'm Abhilash Joseph C! 👋
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=abhijo89-to&label=Views&color=brightgreen&style=plastic" alt="abhijo89-to" /> 
+</p
 <!--
 **abhijo89-to/abhijo89-to** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
