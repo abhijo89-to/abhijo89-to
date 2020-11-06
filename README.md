@@ -14,5 +14,5 @@
 
 Software Engineer who loves code 24 * 7. I'm a Tech enthusiastic person and a self-taught programmer from 2011. I was born in India, Kerala.  I did my graduation from Government College Manjeshwar, Kasaragod in BSc (Statistics) stream. I was also trying my hands with this computer stuff. Somehow, I got very enthusiastic and I started exploring the computer world. The more I dive into it the more I got impressed with it. So, I opted for my Masters in Computer Applications (MCA) at St. Aloysius College. I got familiarized with programming computer applications hence I wanted to move forward with the development field.
 
-I would like to contribute to the Open Source and started working on <a href="https://github.com/abhijo89-to/py3resttest">py3resttest</a> (A REST testing and API microbenchmarking tool). 
+I would like to contribute to the Open Source and started working on <a href="https://github.com/abhijo89-to/py3resttest">resttest3</a> (A REST testing and API microbenchmarking tool). 
 
