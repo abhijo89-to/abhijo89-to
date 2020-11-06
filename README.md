@@ -1,10 +1,6 @@
 ### Hola, I'm Crazy Coder! 👋
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=crazi-coder&label=Views&color=brightgreen&style=flat" alt="crazi-coder" /> 
-  <a href="http://softlinkweb.com">
-    <img src="https://img.shields.io/badge/Website-softlinkweb.com-brightgreen" alt="softlinkweb.com" />
-  </a>
-  <br/>
 </p>
 <br/>
 <br/>
